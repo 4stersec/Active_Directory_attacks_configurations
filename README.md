@@ -13,7 +13,7 @@ Run the main script to configure an AD environment for exploitation:
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\scripts\setup_winrm_ad_exploit.ps1
-
+```
 
 📌 Contribution & Updates
 
