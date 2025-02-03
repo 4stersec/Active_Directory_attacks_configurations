@@ -2,7 +2,7 @@
 
 This repository contains **PowerShell scripts** and configurations to enable and test various **Active Directory (AD) attacks**, including:
 
-✅ **WinRM exploitation
+✅ **WinRM exploitation**
 ✅ **Pass-the-Hash (PtH) setup**  
 ✅ **SMB Relay attack configurations**  
 ✅ **Defensive bypass (Windows Defender, UAC, SMB Signing, etc.)**  
