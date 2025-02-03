@@ -17,8 +17,8 @@ powershell -ExecutionPolicy Bypass -File .\scripts\setup_winrm_ad_exploit.ps1
 
 📌 Contribution & Updates
 
-    Issues with attacks? Open a PR or add to issues/non_working_attacks.md.
-    New attack scripts? Feel free to contribute!
+Issues with attacks? Open a PR or add to issues/non_working_attacks.md.
+New attack scripts? Feel free to contribute!
 
 ⚠️ Disclaimer
 
